@@ -1,0 +1,145 @@
+Call for Papers:
+Authors are invited to submit original and unpublished research papers with an innovative idea on
+topics within the broad areas (but not limited to): Electronics, Signal Processing, Communication,
+Embedded Systems.
+Track 1: Electronics
+➢ Microelectronics
+➢ Nanoelectronics
+➢ Nano Materials
+➢ Design of Semiconductor Memories
+➢ Circuits and Systems
+➢ Wearable and Implantable Electronics in Biomedical Applications
+➢ Quantum Computing
+➢ Electronic Materials
+➢ Industrial Electronics
+Track 2: Signal Processing
+➢ Digital Signal Processing
+➢ AI and Machine Learning for Signal Processing
+➢ 5G and 6G Communication Signal Processing
+➢ Image and Video Processing
+➢ Speech and Audio Signal Processing
+➢ Biomedical Signal Processing
+➢ Radar and Sonar Signal Processing
+➢ Real-Time Signal Processing for Edge Computing and IoT Devices
+➢ Multimedia Signal Processing
+Track 3: Communications
+➢ Mobile Communication
+➢ UAV Communication
+➢ RF and Microwave Communication
+➢ Green Communication
+➢ 5G/6G Wireless Networks and Communication Technologies
+➢ Optical Wireless Communications
+➢ Millimeter-Wave Communication Systems
+➢ Massive MIMO and Beamforming Techniques
+➢ Wireless Sensor Networks
+➢ Cognitive Radio Networks and Spectrum Management
+➢ Vehicular Ad Hoc Networks (VANETs) and V2X Communications
+➢ Satellite Communication and Space-Based Networks
+➢ Quantum Communication and Cryptography
+➢ AI-Driven Communication Networks
+Track 4: VLSI Systems
+➢ Low-Power VLSI Circuits
+➢ High Speed VLSI Circuits
+➢ Hardware Acceleration for AI and Machine Learning
+➢ 3D ICs and Heterogeneous Integration
+➢ Field Programmable Gate Arrays (FPGAs) in Advanced Computing
+➢ VLSI Architectures for Neural Networks and Deep Learning
+➢ High-Level Synthesis and Automated Design Tools
+➢ Reliability, Testing, and Fault-Tolerant VLSI Systems
+➢ Spintronics and Emerging Memory Technologies
+➢ VLSI Design for IoT and Edge Computing Applications
+➢ Secure VLSI Design and Hardware Security
+➢ ASIC Design
+Track 5: Embedded Systems
+➢ Real-Time Embedded Systems for IoT
+➢ Embedded AI and Machine Learning at the Edge
+➢ Low-Power Embedded Systems for Wearable Devices
+➢ Embedded System Security
+➢ Embedded Systems for Automotive Applications
+➢ Embedded Systems for Robotics and Drones
+➢ Embedded Operating Systems and RTOS Design
+➢ FPGA Based Embedded Systems
+➢ Reconfigurable Computing
+➢ Distributed Systems
+➢ Sensor Integration and Data Fusion in Embedded Systems
+Important Dates:
+Commencement of Submission: 10-05-2025
+Deadline of Submission: 20-06-2025
+Paper Acceptance Notification: 10-08-2025
+Camera Ready Copy: 24-08-2025
+Early Registration Deadline: 20-09-2025
+Conference Date: 23-25 October 2025
+Venue:
+KLH Deemed to be University, Bowrampet Campus, Hyderabad
+Keynote Speakers:
+1. Prof. Dipankar Bandopadhyay, Professor, IIT Guwahati
+2. Dr. P Ranga Babu, Associate Professor Electronics and Communication Engineering
+Department, Indian Institute of Information Technology Design and Manufacturing
+Kurnool (IIITDMK), Kurnool, Andhra Pradesh, India - 518008.
+3. Dr Nirmal Roy, Assistant Professor, MNNIT Allahabad
+4. Prof. D Ramu, Professor, IIT Guwahati
+5. Dr Dipjyoti Das, Assistant Professor, NIT Silchar
+6. Dr. Chandrashekhar Thejaswi, PS System Architect, Nokia Networks, Bangalore
+7. Mr. Prabhat Kumar, Scientist F, Electronics & Radar Development Establishment, DRDO,
+C V Raman Nagar, Bangalore
+8. Dr Vimal Kumar Singh, Assistant Professor, MNNIT Allahabad
+9. Dr. Murali Mohan Cheepu, Research Manager, Starwelds Inc, Busan, Republic of Korea
+10. Dr. Anil Kumar Vuppala, Associate Professor, IIIT Hyderabad
+11. Prof. Samrat L Sabat, Head-Centre for Advanced Studies in Electronics Science and
+Technology, University of Hyderabad, Hyderabad, Telengana
+12. Dr. R. Siva Kumar, Professor, VIT Vellore.
+13. Dr. D. Amaranatha Reddy, Assistant Professor, Indian Institute of Information Technology
+Design and Manufacturing-Kurnool, India
+14. Dr. Shyam Akashe, Dean (International Cooperation & Projects) and Professor, Electronics
+and Communication Engineering, ITM University, Gwalior-474011 (M.P.), India
+Chief Patrons:
+1. Sri Koneru Satyanarayana, President, KLEF
+2. Sri Koneru Lakshman Havish, Vice-President, KLEF
+3. Sri Koneru Raja Harin, Vice-President, KLEF
+Co-Patrons:
+1. Dr. L Koteswara Rao, Principal, KLH Bachupally Campus
+2. Dr. Suman Maloji, KL University, Vijayawada
+3. Dr. S Srinivasa Rao, HoD, Dept of ECE, KLH Bachupally Campus
+4. Dr. M Goutham, KLH Aziz Nagar Campus
+General Chairs:
+1. Dr. P Dhilleswararao, KLH Bachupally Campus
+Technical Program Committee:
+1. Dr. Kalyan S Kasturi, KLH Bachupally Campus
+2. Dr. V Venu Balaji, KLH Bachupally Campus
+3. Dr. J Laxmi Prasanna, KLH Bachupally Campus
+4. Dr. K Hari Kishore, KL University, Vijayawada
+International Advisory Committee:
+1. Prof. Kandasamy Prabakar, Professor, Pusan National University, Republic of Korea
+2. Prof. Hee-Je Kim, Professor, Pusan National University, Republic of Korea
+3. Dr. Chandu V.V. Muralee Gopi, Assistant Professor, University of Sharjah, United Arab
+Emirates
+4. Dr. Challa Sesha Sai Pavan Kumar, Senior Researcher, National Institute of Standards and
+Technology (NIST), United States of America
+5. Dr. Naveen Halappa, Postdoctoral Fellow, King Abdullah University of Science and
+Technology (KAUST), Saudi Arabia.
+6. Dr. Shyam Akashe, Dean (International Cooperation & Projects) and Professor, Electronics
+and Communication Engineering ITM University, Gwalior-474011 (M.P.), India.
+7. Prof. Kandasamy Prabakar, Professor at Pusan National University, Republic of Korea.
+8. Prof. Hee-Je Kim, Professor at Pusan National University, Republic of Korea.
+9. Dr. Chandu V.V. Muralee Gopi, Assistant Professor at University of Sharjah, United Arab
+Emirates.
+10. Dr. Challa Sesha Sai Pavan Kumar, Senior Researcher, national Institute of Standards and
+Technology (NIST), United States of America.
+11. Dr. Murali Mohan Cheepu, Research Manager, Starwelds Inc, Busan, Republic of Korea.
+12. Dr. Naveen Halappa, Postdoctoral Fellow, King Abdullah University of Science and
+Technology (KAUST), Saudi Arabia.
+Organizing Committee:
+1. Dr. B Sai Prasad, KLH Bachupally Campus
+2. Dr. Bhaskar Anand, KLH Bachupally Campus
+3. Mr. N Lava Prasad, KLH Bachupally Campus
+4. Dr. Sandeep Chitreddy, KLH Aziz Nagar Campus
+Hospitality Committee:
+1. Dr. V Ravi Kumar, KLH Bachupally Campus
+2. Dr. Y Ramesh Babu, KLH Bachupally Campus
+Website & Conference Portal:
+1. Dr. A. Prabhakar Rao, KLH Bachupally Campus
+2. Dr. K Surendra, KLH Bachupally Campus
+Digital Media , Publicity & Marketing Committee:
+1. Dr. V Sahithi, KLH Bachupally Campus
+Registration Committee
+1. Dr. A Kiran Kumar, KLH Bachupally Campus
