@@ -1,7 +1,7 @@
 export const CONFERENCE_NAME = "1st International Conference on NextGen VLSI & Communication Technologies";
 export const CONFERENCE_SHORT_NAME = "ICNVCT 2025";
 export const CONFERENCE_DATE = "October 23-25, 2025";
-export const CONFERENCE_VENUE = "KLH Deemed to be University, Bowrampet Campus, Hyderabad";
+export const CONFERENCE_VENUE = "KLH University, Bowrampet, Hyderabad, India";
 export const CONFERENCE_EMAIL = "icnvct2025@klh.edu.in";
 
 export const IMPORTANT_DATES = [
@@ -208,9 +208,8 @@ export const COMMITTEES = {
 };
 
 export const UNIVERSITY_INFO = {
-  name: "Koneru Lakshmaiah Education Foundation (KLEF)",
-  shortDesc: "Deemed to be university established in 1980-81, accredited with A++ grade by NAAC.",
-  longDesc: "Koneru Lakshmaiah Education Foundation (KLEF) Deemed to be university was established in 1980-81, as KL College of Engineering, which was upgraded to KL College of Engineering Autonomous in 2006 by UGC, and was declared as a Deemed to be University in 2009 by UGC, MHRD Government of India. In 2012 as a Deemed to be University the institution was accredited by NAAC with A Grade and later in 2018, was re-accredited by NAAC with A++ grade. In 2019 UGC, MHRD declared this intuition as Category I Institution. The first off campus, has come up in A.Y 2018-2019 at Hyderabad, Moinabad, Aziznagar Road, near TSPA Junction, on the road leading to Chilkur Balaji temple. KLEF Deemed to be University has inaugurated its second off campus in A.Y. 2023-2024 in Bowrampet Village, Medchal, Malkajgiri District, Greater Hyderabad. KLEF offers outstanding undergraduate, postgraduate and doctoral programmes in engineering and management streams from two campuses Vijayawada and Hyderabad.",
+  name: "Koneru Lakshmaiah Education Foundation (KLEF)",  shortDesc: "Established university offering quality education in engineering and technology.",
+  longDesc: "KLH University is a premiern Bowrampet, Hyderabad, the institution offers outstanding undergraduate, postgraduate and doctoral programmes i institution dedicated to providing quality education in engineering and technology.",
 };
 
 export const DEPARTMENT_INFO = {

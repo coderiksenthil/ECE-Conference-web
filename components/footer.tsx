@@ -11,15 +11,13 @@ const Footer = () => {
             <p className="text-sm">
               International Conference on NextGen VLSI & Communication
               Technologies
-            </p>
-            <p className="mt-2 text-sm">
-              October 23-25, 2025
+            </p>            <p className="mt-2 text-sm">
+              December 19-21, 2025
             </p>
             <p className="mt-4 text-sm flex items-center">
-              <FiMapPin className="mr-2" />
-              KLH Deemed to be University,
+              <FiMapPin className="mr-2" />              KLH University,
               <br />
-              Bowrampet Campus, Hyderabad
+              Bowrampet, Hyderabad, India
             </p>
           </div>
 
@@ -65,7 +63,7 @@ const Footer = () => {
             </p>
             <p className="mt-4 text-sm flex items-center">
               <FiMail className="mr-2" />
-              icnvct2025@klh.edu.in
+              will be announced soon
             </p>
             <p className="mt-2 text-sm flex items-center">
               <FiCalendar className="mr-2" />

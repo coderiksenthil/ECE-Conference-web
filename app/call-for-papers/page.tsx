@@ -108,8 +108,7 @@ export default function CallForPapersPage() {
             </ol>
             <div className="mt-6 p-4 bg-conference-primary/5 rounded-md">
               <p className="font-medium text-conference-primary">Submission Portal</p>
-              <p className="text-gray-700">
-                The submission portal will be open from May 10, 2025.
+              <p className="text-gray-700">                The submission portal will be open from July 10, 2025.
                 Please check back for the submission link.
               </p>
             </div>
@@ -125,23 +124,23 @@ export default function CallForPapersPage() {
             <ul className="space-y-2">
               <li className="flex justify-between items-center border-b pb-2">
                 <span className="font-medium">Commencement of Submission</span>
-                <span className="text-conference-primary">10-05-2025</span>
+                <span className="text-conference-primary">10-07-2025</span>
               </li>
               <li className="flex justify-between items-center border-b pb-2 pt-2">
                 <span className="font-medium">Deadline of Submission</span>
-                <span className="text-conference-primary">20-06-2025</span>
+                <span className="text-conference-primary">20-08-2025</span>
               </li>
               <li className="flex justify-between items-center border-b pb-2 pt-2">
                 <span className="font-medium">Paper Acceptance Notification</span>
-                <span className="text-conference-primary">10-08-2025</span>
+                <span className="text-conference-primary">10-10-2025</span>
               </li>
               <li className="flex justify-between items-center border-b pb-2 pt-2">
                 <span className="font-medium">Camera Ready Copy</span>
-                <span className="text-conference-primary">24-08-2025</span>
+                <span className="text-conference-primary">24-10-2025</span>
               </li>
               <li className="flex justify-between items-center pb-2 pt-2">
                 <span className="font-medium">Conference Dates</span>
-                <span className="text-conference-primary">23-25 October 2025</span>
+                <span className="text-conference-primary">19-21 December 2025</span>
               </li>
             </ul>
           </CardContent>
