@@ -29,9 +29,8 @@ export default function VenuePage() {
               <h3 className="text-xl font-semibold mb-4 text-conference-secondary">
                 {CONFERENCE_VENUE}
               </h3>
-              <p className="text-gray-700 mb-6">
-                The conference will be held at the state-of-the-art facilities of KLH Deemed to be University,
-                Bowrampet Campus, Hyderabad. The venue is equipped with modern amenities and offers an
+              <p className="text-gray-700 mb-6">                The conference will be held at the state-of-the-art facilities of KLH University,
+                Bowrampet, Hyderabad. The venue is equipped with modern amenities and offers an
                 ideal environment for academic discussions and networking.
               </p>
 
@@ -40,9 +39,8 @@ export default function VenuePage() {
                   <FiInfo className="mr-2 text-conference-primary" />
                   Address
                 </h4>
-                <p className="text-gray-700">
-                  KLH Deemed to be University<br />
-                  Bowrampet Village, Medchal, Malkajgiri District<br />
+                <p className="text-gray-700">                  KLH University<br />
+                  Bowrampet, Hyderabad<br />
                   Greater Hyderabad, Telangana<br />
                   India
                 </p>

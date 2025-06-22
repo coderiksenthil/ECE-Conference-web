@@ -63,7 +63,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-700">
-                  KLH Deemed to be University, Bowrampet Campus, Hyderabad
+                  KLH University, Bowrampet, Hyderabad, India
                 </p>
                 <Link href="/venue" className="text-conference-primary hover:underline mt-4 inline-block">
                   Venue Details
@@ -175,7 +175,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-lg">Email</h3>
-                    <p className="text-gray-600">icnvct2025@klh.edu.in</p>
+                    <p className="text-gray-600">will be announced soon</p>
                   </div>
                 </div>
               </CardContent>
@@ -192,7 +192,7 @@ export default function Home() {
                     <p className="text-gray-600">
                       Department of ECE,
                       <br />
-                      KLH University, Bowrampet Campus,
+                      KLH University, Bowrampet,
                       <br />
                       Hyderabad
                     </p>
