@@ -124,23 +124,23 @@ export default function CallForPapersPage() {
             <ul className="space-y-2">
               <li className="flex justify-between items-center border-b pb-2">
                 <span className="font-medium">Commencement of Submission</span>
-                <span className="text-conference-primary">10-07-2025</span>
+                <span className="text-conference-primary">July 10, 2025</span>
               </li>
               <li className="flex justify-between items-center border-b pb-2 pt-2">
                 <span className="font-medium">Deadline of Submission</span>
-                <span className="text-conference-primary">20-08-2025</span>
+                <span className="text-conference-primary">August 20, 2025</span>
               </li>
               <li className="flex justify-between items-center border-b pb-2 pt-2">
                 <span className="font-medium">Paper Acceptance Notification</span>
-                <span className="text-conference-primary">10-10-2025</span>
+                <span className="text-conference-primary">October 10, 2025</span>
               </li>
               <li className="flex justify-between items-center border-b pb-2 pt-2">
                 <span className="font-medium">Camera Ready Copy</span>
-                <span className="text-conference-primary">24-10-2025</span>
+                <span className="text-conference-primary">October 24, 2025</span>
               </li>
               <li className="flex justify-between items-center pb-2 pt-2">
                 <span className="font-medium">Conference Dates</span>
-                <span className="text-conference-primary">19-21 December 2025</span>
+                <span className="text-conference-primary">December 19-21, 2025</span>
               </li>
             </ul>
           </CardContent>
