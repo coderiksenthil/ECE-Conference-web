@@ -41,5 +41,5 @@ institutions, alongside technical sessions for paper presentations. Researchers 
 submit original contributions addressing current trends and challenges in electronics,
 communications, signal processing, VLSI and embedded systems. Through this exchange,
 ICNVCT 2025 aims to advance the frontiers of these disciplines and inspire future developments.
-ICNVCT is organized by Department of Electronics and Communication Engineering, KLH
+ICNVCT is organized by Department of Electronics and Communication Engineering, KL
 University, Bachupally Campus, Hyderabad
