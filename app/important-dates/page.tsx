@@ -53,7 +53,7 @@ export default function ImportantDatesPage() {
                   <ul className="space-y-2 text-gray-700">
                     <li>All deadlines are at 23:59 hrs (Indian Standard Time, GMT +5:30).</li>
                     <li>Authors are strongly encouraged to submit their papers well before the deadline to avoid any last-minute technical issues.</li>
-                    <li>Early bird registration offers discounted rates and will close on September 20, 2025.</li>
+                    <li>Early bird registration offers discounted rates and will close on November 12, 2025.</li>
                     <li>At least one author of each accepted paper must register for the conference by the early registration deadline.</li>
                     <li>The conference schedule and program details will be announced after the camera-ready submission deadline.</li>
                   </ul>
@@ -74,21 +74,21 @@ export default function ImportantDatesPage() {
                     <span className="font-medium text-conference-primary">Early Bird Registration</span>
                     <p className="text-sm text-gray-600">Discounted rates for early registrants</p>
                   </div>
-                  <span className="font-semibold">September 20, 2025</span>
+                  <span className="font-semibold">November 11, 2025</span>
                 </li>
                 <li className="flex justify-between items-center border-b pb-3 pt-2">
                   <div>
                     <span className="font-medium text-conference-primary">Regular Registration</span>
                     <p className="text-sm text-gray-600">Standard registration rates apply</p>
                   </div>
-                  <span className="font-semibold">October 15, 2025</span>
+                  <span className="font-semibold">December 06, 2025</span>
                 </li>
                 <li className="flex justify-between items-center pt-2">
                   <div>
                     <span className="font-medium text-conference-primary">On-site Registration</span>
                     <p className="text-sm text-gray-600">Higher rates for on-site registration</p>
                   </div>
-                  <span className="font-semibold">October 23-25, 2025</span>
+                  <span className="font-semibold">December 19-21, 2025</span>
                 </li>
               </ul>
             </CardContent>
