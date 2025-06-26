@@ -6,7 +6,7 @@ import { CONFERENCE_VENUE } from "@/lib/constants";
 
 export const metadata = {
   title: "Venue | ICNVCT 2025",
-  description: "Venue information for ICNVCT 2025 at KLH University, Hyderabad",
+  description: "Venue information for ICNVCT 2025 at KL University, Hyderabad",
 };
 
 export default function VenuePage() {
@@ -29,7 +29,7 @@ export default function VenuePage() {
               <h3 className="text-xl font-semibold mb-4 text-conference-secondary">
                 {CONFERENCE_VENUE}
               </h3>
-              <p className="text-gray-700 mb-6">                The conference will be held at the state-of-the-art facilities of KLH University,
+              <p className="text-gray-700 mb-6">                The conference will be held at the state-of-the-art facilities of KL University,
                 Bowrampet, Hyderabad. The venue is equipped with modern amenities and offers an
                 ideal environment for academic discussions and networking.
               </p>
@@ -39,7 +39,7 @@ export default function VenuePage() {
                   <FiInfo className="mr-2 text-conference-primary" />
                   Address
                 </h4>
-                <p className="text-gray-700">                  KLH University<br />
+                <p className="text-gray-700">                  KL University<br />
                   Bowrampet, Hyderabad<br />
                   Greater Hyderabad, Telangana<br />
                   India
@@ -111,7 +111,7 @@ export default function VenuePage() {
               <ul className="space-y-3 text-gray-700">
                 <li className="flex items-start">
                   <span className="text-conference-primary mr-2">•</span>
-                  <span><strong>State-of-the-art Auditorium:</strong> With seating capacity for 500+ attendees</span>
+                  <span><strong>State-of-the-art Auditorium:</strong> With seating capacity for 300+ attendees</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-conference-primary mr-2">•</span>
