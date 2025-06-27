@@ -38,7 +38,7 @@ export default function RegistrationPage() {
                 <CardTitle className="text-xl text-conference-secondary">
                   Early Bird Registration
                 </CardTitle>
-                <p className="text-sm text-gray-500">Until September 20, 2025</p>
+                <p className="text-sm text-gray-500">Until November 12, 2025</p>
               </CardHeader>
               <CardContent>
                 <ul className="space-y-3">
@@ -72,7 +72,7 @@ export default function RegistrationPage() {
                 <CardTitle className="text-xl text-conference-primary">
                   Regular Registration
                 </CardTitle>
-                <p className="text-sm text-gray-500">After September 20, 2025</p>
+                <p className="text-sm text-gray-500">After November 12, 2025</p>
               </CardHeader>
               <CardContent>
                 <ul className="space-y-3">
@@ -179,7 +179,7 @@ export default function RegistrationPage() {
             disabled
             className="bg-conference-primary hover:bg-conference-primary/90 text-white py-6 px-8 text-lg"
           >
-            Registration Opens on May 10, 2025
+            Registration Opens on July 10, 2025
           </Button>
           <p className="text-sm text-gray-500 mt-2">
             Registration link will be activated on the opening date
@@ -208,7 +208,7 @@ export default function RegistrationPage() {
                     What is the cancellation policy?
                   </h3>
                   <p className="mt-2 text-gray-700 ml-7">
-                    Cancellations made before September 30, 2025 will receive a 50% refund. No refunds will be provided after this date.
+                    Cancellations made before November 12, 2025 will receive a 50% refund. No refunds will be provided after this date.
                   </p>
                 </div>
 
