@@ -22,8 +22,8 @@ export default function RegistrationPage() {
             <FiAlertCircle className="h-6 w-6 text-conference-primary" />
           </div>
           <p className="text-lg text-gray-700">
-            Registration will open on <span className="font-semibold">May 10, 2025</span>.
-            Early bird registration ends on <span className="font-semibold">September 20, 2025</span>.
+            Registration will open on <span className="font-semibold">July 10, 2025</span>.
+            Early bird registration ends on <span className="font-semibold">November 12, 2025</span>.
           </p>
         </div>
 
@@ -38,7 +38,7 @@ export default function RegistrationPage() {
                 <CardTitle className="text-xl text-conference-secondary">
                   Early Bird Registration
                 </CardTitle>
-                <p className="text-sm text-gray-500">Until September 20, 2025</p>
+                <p className="text-sm text-gray-500">Until November 12, 2025</p>
               </CardHeader>
               <CardContent>
                 <ul className="space-y-3">
@@ -72,7 +72,7 @@ export default function RegistrationPage() {
                 <CardTitle className="text-xl text-conference-primary">
                   Regular Registration
                 </CardTitle>
-                <p className="text-sm text-gray-500">After September 20, 2025</p>
+                <p className="text-sm text-gray-500">After November 12, 2025</p>
               </CardHeader>
               <CardContent>
                 <ul className="space-y-3">
@@ -179,7 +179,7 @@ export default function RegistrationPage() {
             disabled
             className="bg-conference-primary hover:bg-conference-primary/90 text-white py-6 px-8 text-lg"
           >
-            Registration Opens on May 10, 2025
+            Registration Opens on July 10, 2025
           </Button>
           <p className="text-sm text-gray-500 mt-2">
             Registration link will be activated on the opening date
