@@ -38,12 +38,12 @@ const Hero = () => {
           >
             <div className="flex items-center">
               <FiCalendar className="mr-2" />
-              <span>October 23-25, 2025</span>
+              <span>December 19-21, 2025</span>
             </div>
             <div className="md:w-px md:h-6 md:bg-white/30 hidden md:block"></div>
             <div className="flex items-center">
               <FiMapPin className="mr-2" />
-              <span>KLH University, Hyderabad</span>
+              <span>KL University, Hyderabad</span>
             </div>
           </motion.div>
 
