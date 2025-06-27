@@ -44,7 +44,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-700">
-                  October 23-25, 2025
+                  December 19-21, 2025
                 </p>
                 <Link href="/important-dates" className="text-conference-primary hover:underline mt-4 inline-block">
                   View Important Dates
@@ -63,7 +63,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-700">
-                  KLH University, Bowrampet, Hyderabad, India
+                  KL University, Bowrampet, Hyderabad, India
                 </p>
                 <Link href="/venue" className="text-conference-primary hover:underline mt-4 inline-block">
                   Venue Details
@@ -192,7 +192,7 @@ export default function Home() {
                     <p className="text-gray-600">
                       Department of ECE,
                       <br />
-                      KLH University, Bowrampet,
+                      KL University, Bachupally,
                       <br />
                       Hyderabad
                     </p>
