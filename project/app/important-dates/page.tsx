@@ -74,21 +74,21 @@ export default function ImportantDatesPage() {
                     <span className="font-medium text-conference-primary">Early Bird Registration</span>
                     <p className="text-sm text-gray-600">Discounted rates for early registrants</p>
                   </div>
-                  <span className="font-semibold">September 20, 2025</span>
+                  <span className="font-semibold">November 11, 2025</span>
                 </li>
                 <li className="flex justify-between items-center border-b pb-3 pt-2">
                   <div>
                     <span className="font-medium text-conference-primary">Regular Registration</span>
                     <p className="text-sm text-gray-600">Standard registration rates apply</p>
                   </div>
-                  <span className="font-semibold">October 15, 2025</span>
+                  <span className="font-semibold">December 06, 2025</span>
                 </li>
                 <li className="flex justify-between items-center pt-2">
                   <div>
                     <span className="font-medium text-conference-primary">On-site Registration</span>
                     <p className="text-sm text-gray-600">Higher rates for on-site registration</p>
                   </div>
-                  <span className="font-semibold">October 23-25, 2025</span>
+                  <span className="font-semibold">December 19-21, 2025</span>
                 </li>
               </ul>
             </CardContent>
