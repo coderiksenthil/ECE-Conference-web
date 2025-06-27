@@ -1,8 +1,8 @@
 export const CONFERENCE_NAME = "1st International Conference on NextGen VLSI & Communication Technologies";
 export const CONFERENCE_SHORT_NAME = "ICNVCT 2025";
-export const CONFERENCE_DATE = "October 23-25, 2025";
-export const CONFERENCE_VENUE = "KLH University, Bowrampet, Hyderabad, India";
-export const CONFERENCE_EMAIL = "icnvct2025@klh.edu.in";
+export const CONFERENCE_DATE = "December 19-21, 2025";
+export const CONFERENCE_VENUE = "KL University, Bachupally, Hyderabad, India";
+export const CONFERENCE_EMAIL = "icnvct2025@KL.edu.in";
 
 export const IMPORTANT_DATES = [
   { date: "May 10, 2025", description: "Commencement of Submission" },
@@ -162,18 +162,18 @@ export const COMMITTEES = {
     { name: "Sri Koneru Raja Harin", affiliation: "Vice-President, KLEF" },
   ],
   coPatrons: [
-    { name: "Dr. L Koteswara Rao", affiliation: "Principal, KLH Bachupally Campus" },
+    { name: "Dr. L Koteswara Rao", affiliation: "Principal, KL Bachupally Campus" },
     { name: "Dr. Suman Maloji", affiliation: "KL University, Vijayawada" },
-    { name: "Dr. S Srinivasa Rao", affiliation: "HoD, Dept of ECE, KLH Bachupally Campus" },
-    { name: "Dr. M Goutham", affiliation: "KLH Aziz Nagar Campus" },
+    { name: "Dr. S Srinivasa Rao", affiliation: "HoD, Dept of ECE, KL Bachupally Campus" },
+    { name: "Dr. M Goutham", affiliation: "KL Aziz Nagar Campus" },
   ],
   generalChairs: [
-    { name: "Dr. P Dhilleswararao", affiliation: "KLH Bachupally Campus" },
+    { name: "Dr. P Dhilleswararao", affiliation: "KL Bachupally Campus" },
   ],
   technicalCommittee: [
-    { name: "Dr. Kalyan S Kasturi", affiliation: "KLH Bachupally Campus" },
-    { name: "Dr. V Venu Balaji", affiliation: "KLH Bachupally Campus" },
-    { name: "Dr. J Laxmi Prasanna", affiliation: "KLH Bachupally Campus" },
+    { name: "Dr. Kalyan S Kasturi", affiliation: "KL Bachupally Campus" },
+    { name: "Dr. V Venu Balaji", affiliation: "KL Bachupally Campus" },
+    { name: "Dr. J Laxmi Prasanna", affiliation: "KL Bachupally Campus" },
     { name: "Dr. K Hari Kishore", affiliation: "KL University, Vijayawada" },
   ],
   internationalAdvisory: [
@@ -186,30 +186,30 @@ export const COMMITTEES = {
     { name: "Dr. Murali Mohan Cheepu", affiliation: "Starwelds Inc, Republic of Korea" },
   ],
   organizing: [
-    { name: "Dr. B Sai Prasad", affiliation: "KLH Bachupally Campus" },
-    { name: "Dr. Bhaskar Anand", affiliation: "KLH Bachupally Campus" },
-    { name: "Mr. N Lava Prasad", affiliation: "KLH Bachupally Campus" },
-    { name: "Dr. Sandeep Chitreddy", affiliation: "KLH Aziz Nagar Campus" },
+    { name: "Dr. B Sai Prasad", affiliation: "KL Bachupally Campus" },
+    { name: "Dr. Bhaskar Anand", affiliation: "KL Bachupally Campus" },
+    { name: "Mr. N Lava Prasad", affiliation: "KL Bachupally Campus" },
+    { name: "Dr. Sandeep Chitreddy", affiliation: "KL Aziz Nagar Campus" },
   ],
   hospitality: [
-    { name: "Dr. V Ravi Kumar", affiliation: "KLH Bachupally Campus" },
-    { name: "Dr. Y Ramesh Babu", affiliation: "KLH Bachupally Campus" },
+    { name: "Dr. V Ravi Kumar", affiliation: "KL Bachupally Campus" },
+    { name: "Dr. Y Ramesh Babu", affiliation: "KL Bachupally Campus" },
   ],
   website: [
-    { name: "Dr. A. Prabhakar Rao", affiliation: "KLH Bachupally Campus" },
-    { name: "Dr. K Surendra", affiliation: "KLH Bachupally Campus" },
+    { name: "Dr. A. Prabhakar Rao", affiliation: "KL Bachupally Campus" },
+    { name: "Dr. K Surendra", affiliation: "KL Bachupally Campus" },
   ],
   publicity: [
-    { name: "Dr. V Sahithi", affiliation: "KLH Bachupally Campus" },
+    { name: "Dr. V Sahithi", affiliation: "KL Bachupally Campus" },
   ],
   registration: [
-    { name: "Dr. A Kiran Kumar", affiliation: "KLH Bachupally Campus" },
+    { name: "Dr. A Kiran Kumar", affiliation: "KL Bachupally Campus" },
   ],
 };
 
 export const UNIVERSITY_INFO = {
   name: "Koneru Lakshmaiah Education Foundation (KLEF)",  shortDesc: "Established university offering quality education in engineering and technology.",
-  longDesc: "KLH University is a premiern Bowrampet, Hyderabad, the institution offers outstanding undergraduate, postgraduate and doctoral programmes i institution dedicated to providing quality education in engineering and technology.",
+  longDesc: "KL University Bachupally, Hyderabad is a well renowed university in the city of Hyderabad. The institution offers outstanding undergraduate, postgraduate and doctoral programmes. The institution is dedicated to providing quality education in engineering and technology.",
 };
 
 export const DEPARTMENT_INFO = {
@@ -222,5 +222,5 @@ export const DEPARTMENT_INFO = {
 export const CONFERENCE_INFO = {
   name: "International Conference on NextGen VLSI & Communication Technologies (ICNVCT 2025)",
   desc: "The International Conference on NextGen VLSI & Communication Technologies (ICNVCT 2025) aims to provide a comprehensive platform for researchers, academicians, and industry professionals to exchange innovative ideas and present their latest research findings in the field of electronics and communication engineering. With a broad scope, ICNVCT 2025 will cover a diverse range of topics, including electronics, VLSI systems, signal processing, wireless communication systems, and embedded systems. The conference seeks to foster collaboration and knowledge sharing among participants, playing a pivotal role in shaping the future of these rapidly evolving fields. ICNVCT 2025 will feature keynote talks by distinguished speakers from renowned institutions, alongside technical sessions for paper presentations. Researchers are encouraged to submit original contributions addressing current trends and challenges in electronics, communications, signal processing, VLSI and embedded systems. Through this exchange, ICNVCT 2025 aims to advance the frontiers of these disciplines and inspire future developments.",
-  organizer: "Department of Electronics and Communication Engineering, KLH University, Bachupally Campus, Hyderabad",
+  organizer: "Department of Electronics and Communication Engineering, KL University, Bachupally Campus, Hyderabad",
 };
