@@ -30,8 +30,8 @@ export default function VenuePage() {
                 {CONFERENCE_VENUE}
               </h3>
               <p className="text-gray-700 mb-6">
-                The conference will be held at the state-of-the-art facilities of KLH Deemed to be University,
-                Bowrampet Campus, Hyderabad. The venue is equipped with modern amenities and offers an
+                The conference will be held at the state-of-the-art facilities of KL Deemed to be University,
+                Bachupally Campus, Hyderabad. The venue is equipped with modern amenities and offers an
                 ideal environment for academic discussions and networking.
               </p>
 
@@ -41,8 +41,8 @@ export default function VenuePage() {
                   Address
                 </h4>
                 <p className="text-gray-700">
-                  KLH Deemed to be University<br />
-                  Bowrampet Village, Medchal, Malkajgiri District<br />
+                  KL Deemed to be University<br />
+                  Bachupally, Medchal-Malkajgiri District<br />
                   Greater Hyderabad, Telangana<br />
                   India
                 </p>
@@ -113,7 +113,7 @@ export default function VenuePage() {
               <ul className="space-y-3 text-gray-700">
                 <li className="flex items-start">
                   <span className="text-conference-primary mr-2">•</span>
-                  <span><strong>State-of-the-art Auditorium:</strong> With seating capacity for 500+ attendees</span>
+                  <span><strong>State-of-the-art Auditorium:</strong> With seating capacity for 300+ attendees</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-conference-primary mr-2">•</span>
