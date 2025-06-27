@@ -15,9 +15,9 @@ const Footer = () => {
               December 19-21, 2025
             </p>
             <p className="mt-4 text-sm flex items-center">
-              <FiMapPin className="mr-2" />              KLH University,
+              <FiMapPin className="mr-2" />              KL University,
               <br />
-              Bowrampet, Hyderabad, India
+              Bachupally, Hyderabad, India
             </p>
           </div>
 
@@ -57,7 +57,7 @@ const Footer = () => {
             <p className="text-sm">
               Department of Electronics and Communication Engineering,
               <br />
-              KLH University, Bachupally Campus,
+              KL University, Bachupally Campus,
               <br />
               Hyderabad
             </p>
@@ -67,7 +67,7 @@ const Footer = () => {
             </p>
             <p className="mt-2 text-sm flex items-center">
               <FiCalendar className="mr-2" />
-              October 23-25, 2025
+              December 19-21, 2025
             </p>
           </div>
         </div>
@@ -76,7 +76,7 @@ const Footer = () => {
           <p className="text-sm text-center">
             &copy; {new Date().getFullYear()} ICNVCT 2025. All rights reserved.
             <br />
-            Organized by Department of Electronics and Communication Engineering, KLH University
+            Organized by Department of Electronics and Communication Engineering, KL University
           </p>
         </div>
       </div>
