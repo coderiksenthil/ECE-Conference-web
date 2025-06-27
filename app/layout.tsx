@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "ICNVCT 2025 - NextGen VLSI & Communication Technologies",
   description:
-    "International Conference on NextGen VLSI & Communication Technologies (ICNVCT 2025) - October 23-25, 2025 at KLH University, Hyderabad",
+    "International Conference on NextGen VLSI & Communication Technologies (ICNVCT 2025) - October 23-25, 2025 at KL University, Hyderabad",
 };
 
 export default function RootLayout({
